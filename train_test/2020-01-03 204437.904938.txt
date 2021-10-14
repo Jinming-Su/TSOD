@@ -1,0 +1,5 @@
+{'net': 'restnet50_dilation', 'resize': [256, 512], 'max_iter': 200000, 'iteration_of_epoch': 2975, 'train_batch_size': 4, 'save_interval': 5000, 'last_iter': 0, 'lr': 0.001, 'lr_decay': 0.9, 'weight_decay': 0.0005, 'momentum': 0.9, 'snapshot': '', 'display': 10}
+
+2020-01-03 20:45:09.086070 : e 1 | iter 10 | total l 9.428|tl 9.126 | l0 0.699 | l1 0.716 | l2 0.715 | l3 0.672 | l4 0.688 | lr 0.00100 | t/s 15.17  rest/s 84:16:4
+2020-01-03 20:45:13.990242 : e 1 | iter 20 | total l 8.055|tl 4.810 | l0 0.421 | l1 0.428 | l2 0.455 | l3 0.477 | l4 0.492 | lr 0.00100 | t/s 4.90  rest/s 27:14:33
+2020-01-03 20:45:18.891890 : e 1 | iter 30 | total l 7.332|tl 5.389 | l0 0.479 | l1 0.484 | l2 0.511 | l3 0.502 | l4 0.513 | lr 0.00100 | t/s 4.90  rest/s 27:13:38
